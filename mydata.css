@@ -1,0 +1,9 @@
+body{
+    background-color:brown;
+    h1{background-color:green;}
+    h2{Background-color:blue;}
+    p{background-color:rgb(23,45,255);}
+    ol{list-style-type:upper-roman;}
+    ul{list-style-type:Circle;}
+    h3{background-color:aqua;}
+}
